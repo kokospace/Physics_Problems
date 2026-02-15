@@ -1,6 +1,6 @@
 # Interactive Math Notebook
 
-Welcome to the **Math Problems** repository. This project is designated as a comprehensive template for your personal digital notebook, intended to serve you throughout the entire course.
+Welcome to the **Basics Physics Problems** repository. This project is designated as a comprehensive template for your personal digital notebook, intended to serve you throughout the entire course.
 
 This repository is bilingual (English/Polish) and structured to facilitate the creation of a personalized knowledge base via the Fork & Clone method...
 
@@ -9,12 +9,12 @@ This repository is bilingual (English/Polish) and structured to facilitate the c
 To utilize this material effectively, follow the standard procedure:
 
 1.  **Fork this Repository**:
-    * Navigate to the source repository: **[https://github.com/dchorazkiewicz/Physics_Problems_Repo](https://github.com/dchorazkiewicz/Physics_Problems_Repo)**
+    * Navigate to the source repository: **[https://github.com/nowitens/Physics_Problems](https://github.com/nowitens/Physics_Problems)**
     * Create your private copy using the `Fork` feature on GitHub.
 2.  **Clone Locally**: Download the repository to your local machine.
 3.  **Document Solutions**:
-    * Navigate through the problem lists (e.g., Algebra, Analysis).
-    * For every problem file (e.g., `01_vectors.md`), a corresponding empty directory has been provisioned (e.g., `solution_01_vectors/`).
+    * Navigate through the problem lists.
+    * Note the Solutions and...
     * These directories are your **workspaces**. Create Markdown files within them to store your solutions, proofs, and theoretical notes.
 4.  **Version Control**: Regularly commit and push your work to your GitHub repository to ensure data persistence.
 

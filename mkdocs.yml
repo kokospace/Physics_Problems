@@ -51,6 +51,20 @@ plugins:
             - Względność: '10_Relativity.md'
             - Fizyka Współczesna 1: '11_Modern_Physics_1.md'
             - Fizyka Współczesna 2: '12_Modern_Physics_2.md'
+            - Rozwiązania:
+              - Wprowadzenie: 'Your_solutions/00_Intro_solutions.md'
+              - 'Mechanika 1': 'Your_solutions/01_Mechanics_1_solutions.md'
+              - 'Mechanika 2': 'Your_solutions/02_Mechanics_2_solutions.md'
+              - Fale: 'Your_solutions/03_Waves_solutions.md'
+              - 'Elektromagnetyzm 1': 'Your_solutions/04_Electromagnetism_1_solutions.md'
+              - 'Elektromagnetyzm 2': 'Your_solutions/05_Electromagnetism_2_solutions.md'
+              - Obwody: 'Your_solutions/06_Circuits_solutions.md'
+              - Pomiary: 'Your_solutions/07_Measurements_solutions.md'
+              - 'Astronomia i Astrofizyka': 'Your_solutions/08_Astronomy_and_Astrophysics_solutions.md'
+              - Kosmologia: 'Your_solutions/09_Cosmology_solutions.md'
+              - Względność: 'Your_solutions/10_Relativity_solutions.md'
+              - 'Fizyka Współczesna 1': 'Your_solutions/11_Modern_Physics_1_solutions.md'
+              - 'Fizyka Współczesna 2': 'Your_solutions/12_Modern_Physics_2_solutions.md'
         - locale: en
           name: English
           default: true
