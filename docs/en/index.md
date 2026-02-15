@@ -1,6 +1,6 @@
 # Physics Notebook
 
-Welcome to the **Basics Physics Problems** repository. This project is designed as a comprehensive template for your personal digital notebook, intended to accompany you throughout the entire course.
+Welcome to the **Basics Physics Problems** repository: https://github.com/nowitends/Physics_Problems. This project is designed as a comprehensive template for your personal digital notebook, intended to accompany you throughout the entire course.
 
 This repository is bilingual (English/Polish) and structured to facilitate the creation of a personalized knowledge base using the **Fork & Clone** workflow.
 
@@ -9,7 +9,7 @@ This repository is bilingual (English/Polish) and structured to facilitate the c
 To utilize this material effectively, follow this procedure:
 
 1. **Fork this Repository**:
-    * Navigate to the source repository: **[Physics_Problems](https://github.com/nowitens/Physics_Problems)**
+    * Navigate to the source repository: **[Physics_Problems](https://github.com/nowitends/Physics_Problems)**
     * Create your private copy using the `Fork` button on GitHub.
 2. **Clone Locally**:
     * Clone your forked repository to your local machine.
@@ -50,7 +50,6 @@ We strongly encourage the use of AI tools (ChatGPT, Claude, Gemini) during the s
 Students interested in technology may choose to publish their notes as a website using GitHub Pages.
 
 * Use the `mkdocs build` and `mkdocs gh-deploy` commands to build and host your notes.
-* **Disclaimer**: This is completely optional and does not affect your grade. It is intended solely for self-development.
 
 ---
 

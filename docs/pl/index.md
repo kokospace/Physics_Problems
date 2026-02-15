@@ -1,6 +1,6 @@
 # Notatnik z Fizyki
 
-Witaj w repozytorium **Podstawowe Problemy z Fizyki**. Ten projekt został zaprojektowany jako kompleksowy szablon Twojego osobistego cyfrowego notatnika, który ma Ci towarzyszyć przez cały kurs.
+Witaj w repozytorium **Podstawowe Problemy z Fizyki**: https://github.com/nowitends/Physics_Problems. Ten projekt został zaprojektowany jako kompleksowy szablon Twojego osobistego cyfrowego notatnika, który ma Ci towarzyszyć przez cały kurs.
 
 To repozytorium jest dwujęzyczne (angielski/polski) i zorganizowane tak, aby ułatwić tworzenie spersonalizowanej bazy wiedzy przy użyciu przepływu pracy **Fork & Clone**.
 
@@ -50,7 +50,6 @@ Zdecydowanie zachęcamy do korzystania z narzędzi AI (ChatGPT, Claude, Gemini) 
 Studenci zainteresowani technologią mogą zdecydować się na opublikowanie swoich notatek jako strony internetowej przy użyciu GitHub Pages.
 
 * Użyj poleceń `mkdocs build` i `mkdocs gh-deploy`, aby zbudować i hostować swoje notatki.
-* **Zastrzeżenie**: Jest to całkowicie opcjonalne i nie wpływa na ocenę. Ma na celu wyłącznie samorozwój.
 
 ---
 
