@@ -42,22 +42,7 @@ $$\frac{d^2y}{dt^2} = -g \implies \frac{dy}{dt} = v_{0y} - gt \implies y(t) = v_
 
 
 
----
 
-## 💻 Python Animation (Colab & Local)
-
-You can run this code in **Google Colab** to see the interactive animation.
-
-```python
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
-from IPython.display import HTML
-
-# Physics constants
-v0, theta, g = 100.0, np.radians(37), 9.81
-v0x, v0y = v0 * np.cos(theta), v0 * np.sin(theta)
-T_flight = (2 * v0y) / g
 
 # Time and Position arrays
 t = np
