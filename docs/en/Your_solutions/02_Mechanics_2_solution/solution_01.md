@@ -1,151 +1,32 @@
-1️⃣ Period on the Moon
+# 🎯 Simple Pendulum Physics Project
 
-A simple pendulum’s period is given by:
+This project explores the physics of a simple pendulum and includes a Python animation.
 
-𝑇
-=
-2
-𝜋
-𝐿
-𝑔
-T=2π
-g
-L
-	​
+---
 
-	​
+## 🧮 Problems Solved
 
+### 1. Period on the Moon
 
-Since 
-𝑇
-∝
-1
-𝑔
-T∝
-g
-	​
+The period of a pendulum is:
 
-1
-	​
+T = 2π√(L/g)
 
-:
+Since gravity on the Moon is 1/6 of Earth's:
 
-On the Moon: 
-𝑔
-𝑚
-𝑜
-𝑜
-𝑛
-=
-𝑔
-𝑒
-𝑎
-𝑟
-𝑡
-ℎ
-6
-g
-moon
-	​
+T_moon = T_earth × √6
 
-=
-6
-g
-earth
-	​
+T_moon = 4 × √6 ≈ 9.8 s
 
-	​
+✅ Result: **9.8 seconds**
 
-𝑇
-𝑚
-𝑜
-𝑜
-𝑛
-=
-𝑇
-𝑒
-𝑎
-𝑟
-𝑡
-ℎ
-⋅
-6
-T
-moon
-	​
+---
 
-=T
-earth
-	​
+### 2. Length for 1-second Pendulum
 
-⋅
-6
-	​
+L = (gT²) / (4π²)
 
-𝑇
-𝑚
-𝑜
-𝑜
-𝑛
-=
-4
-⋅
-6
-≈
-9.8
- 
-s
-T
-moon
-	​
+L ≈ 0.25 m
 
-=4⋅
-6
-	​
+✅ Result: **0.25 meters**
 
-≈9.8s
-
-✅ Answer: T ≈ 9.8 s
-
-2️⃣ Length for 1-second Pendulum
-
-Rearranging:
-
-𝐿
-=
-𝑔
-𝑇
-2
-4
-𝜋
-2
-L=
-4π
-2
-gT
-2
-	​
-
-
-Substitute:
-
-𝑔
-=
-9.8
- 
-m/s
-2
-g=9.8m/s
-2
-𝑇
-=
-1
- 
-s
-T=1s
-𝐿
-≈
-0.25
- 
-m
-L≈0.25m
