@@ -41,8 +41,4 @@ KE_f = ½ × 210 × 1² = 105 J
 
 ---
 
-### ❗ Conclusion:
 
-- Momentum is conserved ✅  
-- Kinetic energy is NOT conserved ❌  
-- This is a perfectly inelastic collision
