@@ -5,13 +5,6 @@ The speed of sound in air is 343 m/s.
 
 ---
 
-###  Concept
-
-The sound travels to the cliff and then reflects back to the person.  
-So, the total distance traveled is **twice** the distance to the cliff.
-
----
-
 ###  Formula
 
 d = (v × t) / 2
