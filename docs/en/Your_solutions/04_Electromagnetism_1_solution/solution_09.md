@@ -28,7 +28,7 @@ $$
 
 ---
 
-### Step 1: Convert to component form
+### Step 1: Component form
 
 $$
 \vec{v} = (2, -4, 1), \quad \vec{B} = (1, 2, -1)
@@ -36,15 +36,17 @@ $$
 
 ---
 
-### Step 2: Cross product
+### Step 2: Cross product (component formula)
 
 $$
 \vec{v} \times \vec{B} =
-\begin{vmatrix}
-\hat{i} & \hat{j} & \hat{k} \
-2 & -4 & 1 \
-1 & 2 & -1
-\end{vmatrix}
+(v_y B_z - v_z B_y,; v_z B_x - v_x B_z,; v_x B_y - v_y B_x)
+$$
+
+Substitute values:
+
+$$
+=((-4)(-1) - (1)(2),; (1)(1) - (2)(-1),; (2)(2) - (-4)(1))
 $$
 
 $$
@@ -61,18 +63,11 @@ $$
 
 ---
 
-### Step 4: Multiply by charge
+### Step 4: Final force
 
 $$
-q = 1.6 \times 10^{-19} , \text{C}
-$$
-
-$$
-F = q |\vec{v} \times \vec{B}| = (1.6 \times 10^{-19}) \sqrt{77}
-$$
-
-$$
-F \approx 1.4 \times 10^{-18} , \text{N}
+F = (1.6 \times 10^{-19}) \sqrt{77}
+\approx 1.4 \times 10^{-18} , \text{N}
 $$
 
 ---
@@ -82,11 +77,3 @@ $$
 $$
 \boxed{1.4 \times 10^{-18} , \text{N}}
 $$
-
----
-
-## Key Insight
-
-* Magnetic force is perpendicular to both velocity and magnetic field.
-* Direction is given by the right-hand rule.
-* Only magnitude is required here.
