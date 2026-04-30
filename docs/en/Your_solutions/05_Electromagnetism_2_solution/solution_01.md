@@ -23,6 +23,3 @@ Spherical surface radius: 1 m
 
 ---
 
-## Note:
-The radius of the sphere does NOT affect the result.  
-Gauss's Law depends only on the enclosed charge.
