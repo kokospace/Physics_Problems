@@ -3,7 +3,7 @@
 ## Given:
 Point charge: Q = +2 C  
 Permittivity of free space: ε₀ = 8.85 × 10⁻¹²  
-Spherical surface radius: 1 m (not needed)
+Spherical surface radius: 1 m 
 
 ---
 
