@@ -1,32 +1,38 @@
 # Resistors — Equivalent Resistance Combinations
 
-Given exactly three `1Ω` resistors, we can create several unique equivalent resistances using series and parallel combinations.
+Given exactly three **1 Ω** resistors, we can create several unique equivalent resistances using series and parallel combinations.
 
 ---
 
 ## 1. All Resistors in Series
 
-When resistors are connected in series, their resistances add directly:
+When resistors are connected in series, their resistances add directly.
 
-\[
-R = 1 + 1 + 1 = 3\Omega
-\]
+**Calculation:**
+
+```text
+R = 1 + 1 + 1 = 3 Ω
+```
+
+**Equivalent Resistance:** `3 Ω`
 
 ---
 
 ## 2. All Resistors in Parallel
 
-For parallel resistors:
+For resistors connected in parallel:
 
-\[
-\frac{1}{R} = 1 + 1 + 1 = 3
-\]
+```text
+1/R = 1 + 1 + 1 = 3
+```
 
-Therefore,
+Therefore:
 
-\[
-R = \frac{1}{3}\Omega
-\]
+```text
+R = 1/3 Ω
+```
+
+**Equivalent Resistance:** `1/3 Ω`
 
 ---
 
@@ -34,15 +40,18 @@ R = \frac{1}{3}\Omega
 
 First combine two resistors in series:
 
-\[
-1 + 1 = 2\Omega
-\]
+```text
+1 + 1 = 2 Ω
+```
 
-Then place this combination in parallel with the remaining `1Ω` resistor:
+Then place this combination in parallel with the remaining **1 Ω** resistor:
 
-\[
-R = \frac{2 \times 1}{2 + 1} = \frac{2}{3}\Omega
-\]
+```text
+R = (2 × 1) / (2 + 1)
+R = 2/3 Ω
+```
+
+**Equivalent Resistance:** `2/3 Ω`
 
 ---
 
@@ -50,15 +59,19 @@ R = \frac{2 \times 1}{2 + 1} = \frac{2}{3}\Omega
 
 First combine two resistors in parallel:
 
-\[
-R = \frac{1 \times 1}{1 + 1} = \frac{1}{2}\Omega
-\]
+```text
+R = (1 × 1) / (1 + 1)
+R = 1/2 Ω
+```
 
 Then connect the third resistor in series:
 
-\[
-R = \frac{1}{2} + 1 = \frac{3}{2}\Omega
-\]
+```text
+R = 1/2 + 1
+R = 3/2 Ω
+```
+
+**Equivalent Resistance:** `3/2 Ω`
 
 ---
 
@@ -66,20 +79,6 @@ R = \frac{1}{2} + 1 = \frac{3}{2}\Omega
 
 The complete set of unique equivalent resistances is:
 
-\[
-\boxed{
-\left\{
-\frac{1}{3},
-\frac{2}{3},
-\frac{3}{2},
-3
-\right\}\Omega
-}
-\]
-
-## Unique Values
-
-- `1/3 Ω`
-- `2/3 Ω`
-- `3/2 Ω`
-- `3 Ω`
+```text
+{ 1/3 Ω, 2/3 Ω, 3/2 Ω, 3 Ω }
+```
