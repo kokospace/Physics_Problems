@@ -1,3 +1,12 @@
+
+
+<img width="751" height="350" alt="image" src="https://github.com/user-attachments/assets/9003a2f4-f3e1-44d1-a228-1afd9b26d67e" />
+
+
+
+
+
+
 # Equivalent Resistance Calculation
 
 All resistors in the circuit have the same resistance:
