@@ -91,38 +91,4 @@ $$
 v \approx 0.866c
 $$
 
-## Final Answer
 
-$$
-\boxed{v \approx 0.866c}
-$$
-
-The spaceship must move at approximately:
-
-$$
-\boxed{86.6\%}
-$$
-
-of the speed of light.
-
-Using
-
-$$
-c = 3.00 \times 10^8\ \text{m/s}
-$$
-
-we get:
-
-$$
-v \approx 0.866(3.00 \times 10^8)
-$$
-
-$$
-v \approx 2.60 \times 10^8\ \text{m/s}
-$$
-
-Therefore:
-
-$$
-\boxed{v \approx 2.60 \times 10^8\ \text{m/s}}
-$$
